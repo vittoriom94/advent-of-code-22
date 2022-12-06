@@ -1,7 +1,7 @@
 # Advent of Code - 2022
 
 ## Instruction
-For each day create dayX.py and dayX.py
+For each day create dayX.py and dayX.txt
 
 Call advent.run(func) to solve a problem.
 
